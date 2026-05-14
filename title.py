@@ -15,8 +15,8 @@ class CatholicApp:
         self.sidebar_gray = "#E9ECEF"
         self.text_main = "#212529"
         self.text_muted = "#6C757D"
-        self.correct_green = "#28A745" # Emerald
-        self.wrong_red = "#DC3545"     # Alizarin
+        self.correct_green = "#28A745" 
+        self.wrong_red = "#DC3545"    
         self.accent_blue = "#007BFF"
 
         self.container = tk.Frame(self.root, bg=self.white)
